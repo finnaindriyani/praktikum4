@@ -1,0 +1,69 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box ; 
+} 
+
+.kepala {
+    border: 1px solid; width: 70%;
+}
+
+.lagi {
+    width: 100%; background-color: blue;
+}
+
+. coba {
+    padding-left: 20px ;
+}
+
+.order {
+    padding-top: 40px; padding-bottom: 300px; border: 1px solid; display: flex; width: 70%;
+}
+
+.bisa {
+    width: 100%; padding-left: 20px;
+}
+
+.oke {
+    color: blue;
+}
+
+.siap {
+    color: blue;
+}
+
+.ini {
+    width: 60%; height: 12cm;background-color: pink(58, 47, 47);  padding: 25px;
+}
+
+.udah {
+    text-align: right;
+}
+
+.satu{
+    text-align: right;
+}
+
+.dua {
+    text-align: right;
+}
+
+.tiga {
+    text-align: right;
+}
+
+.empat{
+    border: 1px solid; width: 70%;
+}
+
+.lima{
+    width: 100%;background-color: pink; font-size: 14px; padding-left: 20px;
+}
+
+.enam {
+    text-align: right;
+}
+
+.tujuh {
+    background-color: grey;
+}

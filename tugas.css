@@ -1,0 +1,19 @@
+
+.header {
+  display:flex;
+  gap: 30px;
+  justify-content: space-around;
+}
+.foot {
+	display: flex;
+	gap: 30px;
+	justify-content: space-around;
+	}
+.Justify {
+	Tex-Align: justify;
+	
+	.p{
+		font-size: small
+	
+
+ 
